@@ -35,8 +35,8 @@ The `PatientController` provides REST endpoints for managing patients.
 To run application locally, make sure you have Java and Maven installed on your machine. Clone this repository and run the Spring Boot application.
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/deepend0/cgm-patient-visit-service
+cd cgm-patient-visit-service
 mvn spring-boot:run
 ```
 

@@ -1,0 +1,7 @@
+{
+	"patientId" : 1,
+	"dateTime" : "2024-03-22T19:47:40+00:00",
+	"visitType" : "HOME",
+	"visitReason" : "FIRST",
+	"familyHistory" : "Lorem ipsum"  
+}
